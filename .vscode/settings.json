@@ -1,7 +1,11 @@
 {
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
     "liveServer.settings.port": 5501,
 >>>>>>> Stashed changes
     "editor.acceptSuggestionOnEnter": "on"
+=======
+    "liveServer.settings.port": 5501
+>>>>>>> e7519dc7f7a293ef2c6789e8885685d2ed41659d
 }

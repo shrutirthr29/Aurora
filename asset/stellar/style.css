@@ -1862,7 +1862,8 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 .cpb1t {
-    --tw-gradient-from: #a855f7 var(--tw-gradient-from-position);
+    /* --tw-gradient-from: #a855f7 var(--tw-gradient-from-position); */
+    --tw-gradient-from: #1AB4B0 var(--tw-gradient-from-position);
     --tw-gradient-to: rgb(168 85 247 / 0) var(--tw-gradient-to-position);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to)
 }
@@ -1911,7 +1912,8 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 .cdjcq {
-    fill: #a855f7
+    /* fill: #a855f7 */
+    fill: #1AB4B0
 }
 
 .c64e7 {
@@ -2423,7 +2425,8 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 .codp6 {
-    background: repeating-linear-gradient(90deg, transparent, transparent 48px, #a855f7 48px, #a855f7 49px)
+    /* background: repeating-linear-gradient(90deg, transparent, transparent 48px, #a855f7 48px, #a855f7 49px) */
+    background: repeating-linear-gradient(90deg, transparent, transparent 48px, #1AB4B0 48px, #1AB4B0 49px)
 }
 
 .c686l {
@@ -2431,7 +2434,8 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 .czz23 {
-    background: repeating-linear-gradient(transparent, transparent 48px, #a855f7 48px, #a855f7 49px)
+    /* background: repeating-linear-gradient(transparent, transparent 48px, #a855f7 48px, #a855f7 49px) */
+    background: repeating-linear-gradient(transparent, transparent 48px, #1AB4B0 48px, #1AB4B0 49px)
 }
 
 .c9kso {
@@ -2439,7 +2443,9 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 .csomw {
-    background: linear-gradient(#a855f7, #a855f7) padding-box, linear-gradient(#a855f7, #e9d5ff 75%, transparent 100%) border-box
+    /* background: linear-gradient(#a855f7, #a855f7) padding-box, linear-gradient(#a855f7, #e9d5ff 75%, transparent 100%) border-box */
+    background: linear-gradient(rgb(26 180 176), rgb(7 84 73)) padding-box padding-box, linear-gradient(rgb(26 255 232), rgb(26 193 216) 75%, transparent 100%) border-box border-box;
+
 }
 
 .cuogv {
@@ -2942,7 +2948,8 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 .cxxlx:hover .ca7b4 {
-    fill: #a855f7
+    /* fill: #a855f7 */
+    fill: #1AB4B0
 }
 
 .c7nu9:hover .cffk1 {
@@ -2987,7 +2994,8 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 .cw5r2:checked:focus-visible~.cafcq {
-    outline-color: #a855f7
+    /* outline-color: #a855f7 */
+    outline-color: #1AB4B0
 }
 
 @media not all and (min-width:768px) {
