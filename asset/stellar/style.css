@@ -1337,7 +1337,8 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 .cs2x1 {
-    display: flex
+    display: flex;
+    margin-top: 2px;
 }
 
 .cwkz6 {
@@ -1369,7 +1370,7 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 .cr9dw {
-    height: 4rem
+    height: 7rem
 }
 
 .c1aa5 {
@@ -1457,7 +1458,7 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 .c1eqw {
-    width: 4rem
+    width: 7rem
 }
 
 .cwn2x {
@@ -1797,7 +1798,7 @@ input[type="search"]::-webkit-search-results-decoration {
 
 .cxwxt {
     --tw-border-opacity: 1;
-    border-color: rgb(126 34 206/var(--tw-border-opacity))
+    border-color: rgb(26 180 176/var(--tw-border-opacity))
 }
 
 .c91qe {
@@ -1862,7 +1863,8 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 .cpb1t {
-    --tw-gradient-from: #a855f7 var(--tw-gradient-from-position);
+    /* --tw-gradient-from: #a855f7 var(--tw-gradient-from-position); */
+    --tw-gradient-from: #1AB4B0 var(--tw-gradient-from-position);
     --tw-gradient-to: rgb(168 85 247 / 0) var(--tw-gradient-to-position);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to)
 }
@@ -1911,7 +1913,8 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 .cdjcq {
-    fill: #a855f7
+    /* fill: #a855f7 */
+    fill: #1AB4B0
 }
 
 .c64e7 {
@@ -2036,6 +2039,12 @@ input[type="search"]::-webkit-search-results-decoration {
     padding-bottom: 1rem
 }
 
+.footer-main{
+    display: flex;
+    padding-top: 2rem;
+    justify-content: center;
+}
+
 .c9ls2 {
     padding-bottom: 1.25rem
 }
@@ -2103,7 +2112,7 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 .cqnsz {
-    font-size: 0.875rem;
+    font-size: 1rem;
     line-height: 1.5715
 }
 
@@ -2175,7 +2184,7 @@ input[type="search"]::-webkit-search-results-decoration {
 
 .ct2xv {
     --tw-text-opacity: 1;
-    color: rgb(168 85 247/var(--tw-text-opacity))
+    color: rgb(26 180 176/var(--tw-text-opacity))
 }
 
 .c0mi0 {
@@ -2423,7 +2432,8 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 .codp6 {
-    background: repeating-linear-gradient(90deg, transparent, transparent 48px, #a855f7 48px, #a855f7 49px)
+    /* background: repeating-linear-gradient(90deg, transparent, transparent 48px, #a855f7 48px, #a855f7 49px) */
+    background: repeating-linear-gradient(90deg, transparent, transparent 48px, #1AB4B0 48px, #1AB4B0 49px)
 }
 
 .c686l {
@@ -2431,7 +2441,8 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 .czz23 {
-    background: repeating-linear-gradient(transparent, transparent 48px, #a855f7 48px, #a855f7 49px)
+    /* background: repeating-linear-gradient(transparent, transparent 48px, #a855f7 48px, #a855f7 49px) */
+    background: repeating-linear-gradient(transparent, transparent 48px, #1AB4B0 48px, #1AB4B0 49px)
 }
 
 .c9kso {
@@ -2439,7 +2450,9 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 .csomw {
-    background: linear-gradient(#a855f7, #a855f7) padding-box, linear-gradient(#a855f7, #e9d5ff 75%, transparent 100%) border-box
+    /* background: linear-gradient(#a855f7, #a855f7) padding-box, linear-gradient(#a855f7, #e9d5ff 75%, transparent 100%) border-box */
+    background: linear-gradient(rgb(26 180 176), rgb(7 84 73)) padding-box padding-box, linear-gradient(rgb(26 255 232), rgb(26 193 216) 75%, transparent 100%) border-box border-box;
+
 }
 
 .cuogv {
@@ -2942,7 +2955,8 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 .cxxlx:hover .ca7b4 {
-    fill: #a855f7
+    /* fill: #a855f7 */
+    fill: #1AB4B0
 }
 
 .c7nu9:hover .cffk1 {
@@ -2987,7 +3001,8 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 .cw5r2:checked:focus-visible~.cafcq {
-    outline-color: #a855f7
+    /* outline-color: #a855f7 */
+    outline-color: #1AB4B0
 }
 
 @media not all and (min-width:768px) {
@@ -3074,7 +3089,7 @@ input[type="search"]::-webkit-search-results-decoration {
     }
 
     .cu3kj {
-        grid-column: span 3/span 3
+        grid-column: span 4/span 4
     }
 
     .cy7um {
@@ -3241,9 +3256,9 @@ input[type="search"]::-webkit-search-results-decoration {
         order: 0
     }
 
-    .c96dz {
+    /* .c96dz {
         grid-column: span 2/span 2
-    }
+    } */
 
     .c7trj {
         grid-column: span 4/span 4
