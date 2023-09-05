@@ -3097,7 +3097,8 @@ input[type="search"]::-webkit-search-results-decoration {
     }
 
     .cy7um {
-        grid-column: span 5/span 5
+        /* grid-column: span 5/span 5 */
+        grid-column: span 3/span 5
     }
 
     .cid9a {
