@@ -2116,6 +2116,10 @@ input[type="search"]::-webkit-search-results-decoration {
     line-height: 1.5715
 }
 
+.footer-col{
+    color:#94a3b8;
+}
+
 .c9qka {
     font-size: 1.25rem;
     line-height: 1.5;
@@ -2214,7 +2218,7 @@ input[type="search"]::-webkit-search-results-decoration {
 
 .crdoi {
     --tw-text-opacity: 1;
-    color: rgb(248 250 252/var(--tw-text-opacity))
+    /* color: rgb(248 250 252/var(--tw-text-opacity)) */
 }
 
 .c2v91 {
