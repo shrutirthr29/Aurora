@@ -2578,7 +2578,7 @@ input[type="search"]::-webkit-search-results-decoration {
 .cpt2o::before {
     content: var(--tw-content);
     --tw-bg-opacity: 1;
-    background-color: rgb(168 85 247/var(--tw-bg-opacity))
+    background-color: rgb(26 180 176/var(--tw-bg-opacity))
 }
 
 .cypz5::before {
