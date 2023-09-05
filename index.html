@@ -9,6 +9,25 @@
     <link rel="stylesheet" href="asset/stellar/./css/vendors/swiper-bundle.min.css">
     <link href="asset/stellar/./style.css" rel="stylesheet">
 </head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  $("a").on('click', function(event) {
+    if (this.hash !== "") {
+      event.preventDefault();
+
+      var hash = this.hash;
+
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 800, function(){
+
+        window.location.hash = hash;
+      });
+    } 
+  });
+});
+</script>
 
 <body class="cp73f curfr cbwtk cqpzc cthh7">
 
