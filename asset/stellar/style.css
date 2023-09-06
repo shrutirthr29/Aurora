@@ -3008,6 +3008,10 @@ input[type="search"]::-webkit-search-results-decoration {
     /* outline-color: #a855f7 */
     outline-color: #1AB4B0
 }
+.headingcollabs{
+    margin-bottom: 30px;
+    text-align: center;
+}
 
 @media not all and (min-width:768px) {
     .ceghp {
