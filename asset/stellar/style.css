@@ -562,6 +562,12 @@ select {
 }
 
 @media (min-width:640px) {
+    
+    .cqnsz {
+        font-size: 0.6rem;
+        line-height: 1.5715
+    }
+
     .cinju {
         max-width: 640px
     }
@@ -1855,7 +1861,7 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 .clbrg {
-    --tw-bg-opacity: 0.25
+    --tw-bg-opacity: 0.5
 }
 
 .cmmug {
@@ -2106,13 +2112,13 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 .cd2du {
-    font-size: 1.125rem;
+    font-size: 1rem;
     line-height: 1.5;
     letter-spacing: -0.017em
 }
 
 .cqnsz {
-    font-size: 1rem;
+    font-size: 0.9rem;
     line-height: 1.5715
 }
 
@@ -2121,7 +2127,7 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 .c9qka {
-    font-size: 1.25rem;
+    font-size: 0.9rem;
     line-height: 1.5;
     letter-spacing: -0.017em
 }
@@ -3029,6 +3035,7 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 @media (min-width:640px) {
+    
     .c64tz {
         grid-column: span 12/span 12
     }
